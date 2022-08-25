@@ -1,0 +1,11 @@
+body {
+    font-family: 'DynaPuff', cursive;
+}
+#fp_link{
+    text-decoration: none;
+}
+hr{
+    width: 70%;
+    background-color: rgb(136, 129, 129);
+    margin: 2rem auto;
+}
